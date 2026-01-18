@@ -1,0 +1,6 @@
+D:\Work\Steganography\Steganography.Core\bin\Debug\Steganography.Core.dll
+D:\Work\Steganography\Steganography.Core\bin\Debug\Steganography.Core.pdb
+D:\Work\Steganography\Steganography.Core\obj\Debug\Steganography.Core.csproj.AssemblyReference.cache
+D:\Work\Steganography\Steganography.Core\obj\Debug\Steganography.Core.csproj.CoreCompileInputs.cache
+D:\Work\Steganography\Steganography.Core\obj\Debug\Steganography.Core.dll
+D:\Work\Steganography\Steganography.Core\obj\Debug\Steganography.Core.pdb

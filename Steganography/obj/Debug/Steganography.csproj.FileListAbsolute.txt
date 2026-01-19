@@ -1,9 +1,0 @@
-D:\Work\Steganography\Steganography\bin\Debug\Steganography.exe.config
-D:\Work\Steganography\Steganography\bin\Debug\Steganography.exe
-D:\Work\Steganography\Steganography\bin\Debug\Steganography.pdb
-D:\Work\Steganography\Steganography\obj\Debug\Steganography.csproj.AssemblyReference.cache
-D:\Work\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
-D:\Work\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
-D:\Work\Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
-D:\Work\Steganography\Steganography\obj\Debug\Steganography.exe
-D:\Work\Steganography\Steganography\obj\Debug\Steganography.pdb
